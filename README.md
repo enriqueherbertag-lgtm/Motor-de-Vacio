@@ -1,5 +1,7 @@
 # Motor de Vacío
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Motor térmico que opera por presión diferencial, no por combustión. Cero emisiones.**
 
 El Motor de Vacío utiliza la presión atmosférica como fuente de energía y el vacío como "combustible" almacenable. Al expandir un gas a presión atmosférica dentro de un cilindro previamente evacuado, se genera movimiento mecánico sin explosión ni combustión.
